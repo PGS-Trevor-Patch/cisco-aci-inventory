@@ -1,4 +1,4 @@
 ---
 plugin: zjpeterson.aci.aci_inventory
-host: sandboxapicdc.cisco.com
+host: 10.10.20.14
 validate_certs: no
