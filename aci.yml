@@ -1,4 +1,4 @@
 ---
 plugin: zjpeterson.aci.aci_inventory
-host: 10.10.20.14
+host: apic.io
 validate_certs: no
